@@ -23,7 +23,7 @@ namespace BlobContainerDownload.Controllers
                 CloudStorageAccount.Parse(
 "<azure-storage-connectionstring>");
             CloudBlobClient blobClient = storageAccount.CreateCloudBlobClient();
-            CloudBlobContainer container = blobClient.GetContainerReference("mediacontainer");
+            CloudBlobContainer container = blobClient.GetContainerReference("<blob-container-name>");
 
             CloudBlockBlob blob = container.GetBlockBlobReference(blobName);
 
