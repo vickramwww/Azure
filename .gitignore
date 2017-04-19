@@ -6,3 +6,9 @@
 /BlobContainerDownload/BlobContainerDownload/bin
 /BlobContainerDownload/packages
 /BlobContainerDownload/.vs
+/AzureMediaStorage/.vs
+/AzureMediaStorage/AzureMediaStorage.Custom/bin
+/AzureMediaStorage/AzureMediaStorage.Custom/obj/Debug
+/AzureMediaStorage/AzureMediaStorage.Web/bin
+/AzureMediaStorage/AzureMediaStorage.Web/obj/Debug
+/AzureMediaStorage/packages
